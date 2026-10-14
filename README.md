@@ -19,8 +19,6 @@
 
 <p> ───── ୨୧ ───── </p>
 
-<br clear="all">
-
 ![](https://komarev.com/ghpvc/?username=ruffledram&label=Lil+Snots&color=913F4C)
 
 <details>
@@ -82,13 +80,13 @@
   <a href="https://ruffledram.atabook.org/">新book</a> ♡
 </p>
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=ba1212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=2e93ff&amp;bar_color_cover=false" alt="Spotify currently listening">
-</a>
-
 </td>
 </tr>
 </table>
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=ba1212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=2e93ff&amp;bar_color_cover=false" alt="Spotify currently listening">
+</a>
 
 </div>
 
