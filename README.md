@@ -24,7 +24,7 @@
 <details>
 <summary>୨୧ byi</summary>
 
-  I like mirrorshipping/selfcest.<br>
+  I like mirrorshipping.<br>
   People who mirrorship 
   with minors/adults 
   get the HELL away from me.
