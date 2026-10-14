@@ -24,8 +24,6 @@
 <details>
 <summary>୨୧ byi</summary>
 
-  I'm demi-pansexual and go by she/they pronouns.
-
   I like mirrorshipping/selfcest.<br>
   People who mirrorship 
   with minors/adults 
