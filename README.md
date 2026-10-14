@@ -1,66 +1,94 @@
 <div align="center">
 
-<!-- big custom aesthetic image goes here -->
-<img src="https://art.pixilart.com/eef267cfd7b5a5b.gif" width="15%" alt="ruffy's profile header">
+<img align="left" src="https://art.pixilart.com/eef267cfd7b5a5b.gif" width="400" alt="Sonic Monitor">
 
-<br><br>
+<table>
+<tr>
+<td align="center">
 
-![](https://komarev.com/ghpvc/?username=ruffledram&label=little+snots&color=913F4C&style=flat")
+<h3>hai, i'm Ruffy!</h3>
 
-<br><br>
+<p>
+  don't be afraid to call me by the pony<br>
+  i'm using if you're too shy to talk!
+</p>
 
-<p align="center"> Hai I'm Ruffy, 
-  
-  don't be afraid to call me by the pony I'm using if your to shy to talk! 
-  
-  demi-pan & she / they pronouns work !</p>
+<p>
+  demi-pan - she / they pronouns work!
+</p>
+
+<p> ───── ୨୧ ───── </p>
+
+<br clear="all">
+
+![](https://komarev.com/ghpvc/?username=ruffledram&label=Lil+Snots&color=913F4C)
 
 <details>
-<summary>byi</summary>
+<summary>୨୧ byi</summary>
 
-<br>
+  I'm demi-pansexual and go by she/they pronouns.
 
-I'm demi-pansexual and go by she/they pronouns.
+  I like mirrorshipping/selfcest.<br>
+  People who mirrorship 
+  with minors/adults 
+  get the hell away from me.
 
-I like mirrorshipping/selfcest. People who mirrorship with minors/adults, get the hell away from me.
+  Sonic fan for 6+ years, 
+  but my favorite Sonics<br>
+  are STC/Fleetway Sonic 
+  \and Extra Life Sonic.
 
-Sonic fan for 6+ years, but my favorite Sonics are STC/Fleetway Sonic and Extra Life Sonic from the same comic.
+  Don't be afraid to 
+  c+h, int, or take inspo<br>
+  from my skins! 
+  Pls don't rip off my work though...
 
-Don't be afraid to c+h, int, or take inspo from my skins! Pls don't rip off my work though...
+  I like many fandoms, but some 
+  I'm not entirely in,<br>
+  so please be patient if I don't 
+  immediately understand a ref.
 
-I like many fandoms, but some I'm not entirely in, so please be patient if I don't immediately understand.
+  I love my friends dearly, 
+  so don't get on their bad side,<br>
+  because I will avoid you.
 
-I love my friends dearly, so don't get on their bad side, because I will avoid you.
+</p>
 
 </details>
 
-<br>
-
 <details>
-<summary>dni</summary>
+<summary>୨୧ dni</summary>
 
-<br>
+<p>Basic DNI criteria.</p>
 
-Basic DNI criteria.
+<p>
+  FleetEbony shippers (idm any other ships!<br>
+  I'm okay with Sonadow, but I don't personally ship it!).
+</p>
 
-FleetEbony shippers (idm any other ships! I'm okay with Sonadow, but I don't personally ship it!).
+<p>Mirrorship/selfcest ship haters.</p>
 
-Mirrorship/selfcest ship haters.
+<p>
+  Problematic old friends (Petra, stay tf away from us,<br>
+  you jealous, racist, slur-slinging freakazoid).
+</p>
 
-Problematic old friends (Petra, stay tf away from us, you jealous, racist, slur-slinging freakazoid).
-
-Anyone else not listed here, int pls!
+<p>Anyone else not listed here, int pls!</p>
 
 </details>
 
-<br>
-
-please sign <a href="https://ruffledram.atabook.org/">新book</a>
-
-<br><br>
+<p>
+  please sign
+  <a href="https://ruffledram.atabook.org/">新book</a> ♡
+</p>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&cover_image=true&theme=novatorem&show_offline=false&background_color=ba1212&interchange=false&profanity=false&hide_remaster=false&bar_color=2e93ff&bar_color_cover=false" alt="Spotify currently listening">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=ba1212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=2e93ff&amp;bar_color_cover=false" alt="Spotify currently listening">
 </a>
 
+</td>
+</tr>
+</table>
+
 </div>
+
