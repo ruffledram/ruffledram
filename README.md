@@ -27,7 +27,7 @@
   I like mirrorshipping/selfcest.<br>
   People who mirrorship 
   with minors/adults 
-  get the hell away from me.
+  get the HELL away from me.
 
   Sonic fan for 6+ years, 
   but my favorite Sonics<br>
