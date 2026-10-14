@@ -11,7 +11,9 @@
 
 <p align="center"> Hai I'm Ruffy, 
   
-  don't be afraid to call me by the pony I'm using if your to shy to talk! </p>
+  don't be afraid to call me by the pony I'm using if your to shy to talk! 
+  
+  demi-pan & she / they pronouns work !</p>
 
 <details>
 <summary>byi</summary>
