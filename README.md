@@ -9,20 +9,26 @@
 
 <br><br>
 
+<p align="center"> Hai I'm Ruffy, 
+  
+  don't be afraid to call me by the pony I'm using if your to shy to talk! </p>
+
 <details>
 <summary>byi</summary>
 
 <br>
 
-i draw and write a lot, even if i don't always post everything.
+I'm demi-pansexual and go by she/they pronouns.
 
-inspiration is fine. copying my work isn't.
+I like mirrorshipping/selfcest. People who mirrorship with minors/adults, get the hell away from me.
 
-i'm into mirrorshipping/selfcest. adult/minor ships are a hard no.
+Sonic fan for 6+ years, but my favorite Sonics are STC/Fleetway Sonic and Extra Life Sonic from the same comic.
 
-i like a bunch of fandoms, but i'm not active in all of them.
+Don't be afraid to c+h, int, or take inspo from my skins! Pls don't rip off my work though...
 
-i love my friends dearly. please be decent to them.
+I like many fandoms, but some I'm not entirely in, so please be patient if I don't immediately understand.
+
+I love my friends dearly, so don't get on their bad side, because I will avoid you.
 
 </details>
 
@@ -33,15 +39,15 @@ i love my friends dearly. please be decent to them.
 
 <br>
 
-basic DNI criteria.
+Basic DNI criteria.
 
-FleetEbony shippers. other ships are fine, i just don't personally ship Sonadow.
+FleetEbony shippers (idm any other ships! I'm okay with Sonadow, but I don't personally ship it!).
 
-mirrorship/selfcest haters.
+Mirrorship/selfcest ship haters.
 
-problematic old friends — you know who you are.
+Problematic old friends (Petra, stay tf away from us, you jealous, racist, slur-slinging freakazoid).
 
-otherwise, feel free to interact.
+Anyone else not listed here, int pls!
 
 </details>
 
