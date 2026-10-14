@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="left" src="https://art.pixilart.com/eef267cfd7b5a5b.gif" width="400" alt="Sonic Monitor">
+<img align="left" src="https://art.pixilart.com/eef267cfd7b5a5b.gif" width="350" alt="Sonic Monitor">
 
 <table>
 <tr>
