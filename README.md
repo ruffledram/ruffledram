@@ -1,5 +1,4 @@
 <div align="center">
-
 <img align="left" src="https://art.pixilart.com/eef267cfd7b5a5b.gif" width="335" alt="Sonic Monitor">
 
 <table>
@@ -59,23 +58,24 @@
 
 <p>
   FleetEbony shippers (idm any other ships!<br>
-  I'm okay with Sonadow, but I don't personally ship it!).
+  I'm okay with Sonadow, 
+  but I don't personally ship it!).
 </p>
 
-<p>Mirrorship/selfcest ship haters.</p>
+<p>Mirrorship haters.</p>
 
 <p>
-  Problematic old friends (Petra, stay tf away from us,<br>
-  you jealous, racist, slur-slinging freakazoid).
+  Problematic old friends (Petra, stay tf away from me,<br>
+  you jealous, racist, slur-slinging bum).
 </p>
 
-<p>Anyone else not listed here, int pls!</p>
+<p>Anyone not listed here, int pls!</p>
 
 </details>
 
 <p>
   please sign
-  <a href="https://ruffledram.atabook.org/">新book</a> ♡
+  <a href="https://ruffledram.atabook.org/">新book</a> !!!
 </p>
 
 </td>
