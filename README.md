@@ -83,9 +83,9 @@
 </p>
 
 <p>
-  main github :
-  <a href="https://github.com/ruffledram">
-    @ruffledram
+  alt github :
+  <a href="https://github.com/pinkgaurdian">
+    @pinkguardian
   </a>
 </p>
 
