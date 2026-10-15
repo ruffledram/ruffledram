@@ -18,7 +18,7 @@
 
 <p> ───── ୨୧ ───── </p>
 
-![](https://komarev.com/ghpvc/?username=ruffledram&label=Lil+Snots&color=913F4C)
+![](https://komarev.com/ghpvc/?username=ruffledram&label=pixelbrains&color=913F4C)
 
 <details>
 <summary>୨୧ byi</summary>
