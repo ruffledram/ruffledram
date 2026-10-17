@@ -6,7 +6,7 @@
 
 <p>
   $\color{#476b85}{movedㅤtoㅤnewㅤmain}$ <br>
-  <a href="https://github.com/ruffiest"><b>$\color{#476b85}{@ruffiest}$</b></a>
+  <a href="https://github.com/ruffiest"><b>@ruffiest</b></a>
 </p>
 
 </div>
